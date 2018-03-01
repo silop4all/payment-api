@@ -1,6 +1,6 @@
 # Payment component
 
-description ...
+The P4ALL Payment API facilitates the service suppliers to sell their services/products, as well as allowing end-users/consumers to purchase both machine and human offered resources using a uniform solution.
 
 
 ## Installation
